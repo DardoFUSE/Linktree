@@ -53,6 +53,10 @@ h1 {
     text-align: center;
     color: wheat;
 }
+p {
+    text-align: center;
+    color: wheat;
+}
 
 
 .link {
@@ -82,11 +86,10 @@ h1 {
 }
 
 
-
 /* Esto es lo unico hecho con chatGPT */
 @media screen and (max-width: 768px) {
-  
-
+   
+   
     .link {
         width: 90%;
         font-size: 16px;
