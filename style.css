@@ -81,10 +81,7 @@ h1 {
     text-decoration: none;
 }
 
-.link a::before {
-    content: url('url_de_tu_icono');
-    margin-right: 8px;
-}
+
 
 /* Esto es lo unico hecho con chatGPT */
 @media screen and (max-width: 768px) {
